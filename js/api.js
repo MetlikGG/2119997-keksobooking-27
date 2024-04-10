@@ -1,6 +1,6 @@
 import { ErrorPopupMessage } from './consts.js';
 
-const URL = 'https://27.javascript.pages.academy/keksobooking';
+const URL = 'https://27.javascript.htmlacademy.pro/keksobooking';
 
 const getData = (onSuccess, onError) => {
   fetch(
